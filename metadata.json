@@ -1,0 +1,14 @@
+{
+  "name": "junglecatsoftware-nodetype",
+  "version": "0.1.0",
+  "author": "Jungle Cat Software",
+  "summary": "Derive a server's nodetype from various sources",
+  "license": "GPLv3",
+  "source": "https://github.com/JungleCatSoftware/puppet-nodetype",
+  "project_page": "https://github.com/JungleCatSoftware/puppet-nodetype",
+  "issues_url": "https://github.com/JungleCatSoftware/puppet-nodetype/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
